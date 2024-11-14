@@ -1,0 +1,21 @@
+{
+  "name": "time-management",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@syncfusion/ej2-cldr-data": "^26.1.35",
+    "@syncfusion/ej2-vue-notifications": "^27.1.50",
+    "@syncfusion/ej2-vue-schedule": "^27.1.58",
+    "vue": "^3.5.12"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.1.4",
+    "vite": "^5.4.10"
+  }
+}
